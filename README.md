@@ -1,3 +1,8 @@
+
+This is edition version [PHPExcel](https://github.com/PHPOffice/PHPExcel "PHPExcel") library. Works with `mbstring.func_overload=2` in `php.ini`
+
+
+
 ## How install in your project? 
 
 Add into *composer.json* 
