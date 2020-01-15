@@ -3,7 +3,7 @@
 Add into *composer.json* 
 	
         "require": {
-            "phpexcel_for_mbstring_func_overload_2": "dev-master"
+            "phpexcel/for_mbstring_func_overload_2": "dev-master"
         },
         "repositories": [
             {
