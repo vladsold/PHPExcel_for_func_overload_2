@@ -1,0 +1,13 @@
+{
+  "name": "phpexcel/for_mbstring_func_overload_2",
+  "type": "vcs",
+  "description": "This is edition version PHPExcel library. She works with mbstring.func_overload=2 in php.ini",
+  "keywords": ["xls", "PHPExcel", "export"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "VladSold",
+      "email": "vladsold@icloud.com"
+    }
+  ]
+}
