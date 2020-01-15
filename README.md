@@ -1,2 +1,15 @@
-# PHPExcel_for_func_overload_2
-This is edition version PHPExcel library. She works with "mbstring.func_overload=2" in php.ini
+## How install in your project? 
+
+Add into *composer.json* 
+	
+        "require": {
+            "phpexcel_for_mbstring_func_overload_2": "dev-master"
+        },
+        "repositories": [
+            {
+                "type": "vcs",
+                "url": "https://github.com/vladsold/PHPExcel_for_func_overload_2"
+            }
+        ]
+        
+Execute command: ```composer update```
